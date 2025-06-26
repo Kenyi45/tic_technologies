@@ -1,4 +1,3 @@
-import React from 'react';
 import { ProductoForm } from './components/ProductoForm';
 import { ProductosList } from './components/ProductosList';
 import { BonificacionesResult } from './components/BonificacionesResult';
